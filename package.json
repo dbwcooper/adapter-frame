@@ -1,6 +1,12 @@
 {
   "name": "adapter-frame",
   "private": true,
+  "keywords": [
+    "React",
+    "iframe",
+    "scrollbar",
+    "postMessage"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
